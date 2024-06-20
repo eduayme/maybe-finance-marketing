@@ -47,6 +47,14 @@ tools = [
     "description": "See how much your 401k balance and payout amount in retirement will work for you.",
     "category_slug": "retirement",
     "icon": "bar-chart-4"
+  },
+  {
+    "name": "Bogleheads Calculator",
+    "slug": "bogleheads-calculator",
+    "intro": "Assess your investment portfolio following Bogleheads principles.",
+    "description": "See the performance of a Boglehead\’s three-fund portfolio based on the past 25 years.",
+    "category_slug": "investing",
+    "icon": "line-chart"
   }
 ]
 
